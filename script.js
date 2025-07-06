@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+documentdocument.addEventListener('DOMContentLoaded', () => {
     const canvas = document.getElementById('doodleArea');
     const ctx = canvas.getContext('2d');
     const playSoundButton = document.getElementById('playSoundButton');
